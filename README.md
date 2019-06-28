@@ -1,4 +1,0 @@
-Joomla
-======
-
-Joomla Framework
